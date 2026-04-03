@@ -2,4 +2,4 @@
 
 Entrega 1: Ubicada en Content/Car_Dealer/NewMap.
 
-Entrega 2 (Habitación): Ubicada en Content/Tarea_Habitacion/MiHabitacion
+Entrega 2 (Habitación): Ubicada en Content/Maps
